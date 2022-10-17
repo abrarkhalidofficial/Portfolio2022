@@ -85,8 +85,8 @@ export default function About() {
             creative way.
           </div>
           <div className="about__section__right__languages">
-            🦄 <span>Skills:</span> HTML5, CSS3, JavaScript, Bootstrap, ReactJS,
-            MongoDB, ExpressJS, NodeJS, Typescript, Graphql, Rest.
+            🦄 <span>Skills:</span> HTML5, CSS3, JavaScript, ReactJS, NodeJS,
+            WordPress, Shopify, Material UI & UX.
           </div>
           <div className="about__section__right__tools">
             💼 <span>Tools:</span> Visual Studio Code, Android Studio, GitHub

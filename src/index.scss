@@ -275,6 +275,7 @@ body {
   overflow: hidden;
   animation: 500ms home__section__right__animate__in;
   position: relative;
+  margin-bottom: -2em;
 }
 @keyframes home__section__right__animate__in {
   from {
@@ -334,7 +335,7 @@ body {
   border-radius: 50px;
 }
 .about__section__left__img {
-  height: 400px;
+  height: 450px;
   border-radius: 30px;
 }
 .about__section__left__experience {
@@ -1145,7 +1146,7 @@ body {
     width: 100%;
   }
   .about__section__right {
-    width: 100%;
+    width: 90%;
     margin-top: 8em;
   }
   .services__section__content__entry {
