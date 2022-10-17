@@ -29,15 +29,6 @@ export default function ProjectCard({ item }) {
           <GitHub size={20} color="currentColor" />
           Github
         </a>
-        {item.homepage && item.homepage !== null ? (
-          <a
-            href={item.homepage}
-            className="portfolio__section__content__entry__button"
-          >
-            <Globe size={20} color="currentColor" />
-            Website
-          </a>
-        ) : null}
       </div>
     </div>
   );

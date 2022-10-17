@@ -7,25 +7,25 @@ export default function Blog() {
       heading:
         "Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur",
       date: "2022-04-22T00:13:01Z",
-      author: "Admin",
+      author: "Abrar Khalid",
     },
     {
       heading:
         "Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur",
       date: "2022-04-22T00:13:01Z",
-      author: "Admin",
+      author: "Hammad Habib",
     },
     {
       heading:
         "Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur",
       date: "2020-04-22T00:13:01Z",
-      author: "Arslan",
+      author: "Bilal Khalid",
     },
     {
       heading:
         "Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur Blog name Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur",
       date: "2020-04-22T00:13:01Z",
-      author: "Arslan",
+      author: "Mehfooz Ul Rehman",
     },
   ];
   return (

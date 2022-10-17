@@ -31,7 +31,7 @@ export default function Header() {
           className="header__content__logo"
         >
           <div className="header__content__logo__slogan">M.</div>
-          <div className="header__content__logo__text">Abrar-khalid</div>
+          <div className="header__content__logo__text">Abrar Khalid</div>
         </button>
         {nav ? (
           <OutsideClickHandler

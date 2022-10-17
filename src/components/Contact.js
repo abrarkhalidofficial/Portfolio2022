@@ -85,10 +85,7 @@ export default function Contact() {
               </div>
               <div className="contact__section__content__right__entry__content">
                 <div className="contact__section__content__right__entry__content__entry">
-                  +92 313 7178074
-                </div>
-                <div className="contact__section__content__right__entry__content__entry">
-                  +92 335 7291419
+                  +92 306 7166114
                 </div>
               </div>
             </div>
@@ -101,7 +98,7 @@ export default function Contact() {
                   iabrarkhalidofficial@gmail.com
                 </div>
                 <div className="contact__section__content__right__entry__content__entry">
-                  iabrarkhalidofficial@gmail.com
+                  Abrarprince471@gmail.com
                 </div>
               </div>
             </div>

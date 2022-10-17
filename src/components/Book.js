@@ -16,32 +16,34 @@ export default function Book({}) {
       <div className="experience__page">
         <div className="experience__page__heading">My Education</div>
         <div className="experience__page__sub__heading">Matric</div>
-        <div className="experience__page__info">2014 - 2016</div>
-        <div className="experience__page__content">Computer Science</div>
+        <div className="experience__page__info">2018 - 2020</div>
+        <div className="experience__page__content">Biology Science</div>
         <div className="experience__page__sub__heading">Intermediate</div>
-        <div className="experience__page__info">2016 - 2018</div>
-        <div className="experience__page__content">ICS (Computer Science)</div>
+        <div className="experience__page__info">2020 - 2022</div>
+        <div className="experience__page__content">Fsc (Pre Engineering)</div>
         <div className="experience__page__sub__heading">Bachelor's</div>
-        <div className="experience__page__info">2020 - till now</div>
+        <div className="experience__page__info">2022 - till now</div>
         <div className="experience__page__content">Computer Science</div>
       </div>
       <div className="experience__page">
         <div className="experience__page__heading">My Experiences</div>
         <div className="experience__page__sub__heading">Buy Tech Zone</div>
-        <div className="experience__page__info">2019 - 2020</div>
+        <div className="experience__page__info">2021 - 2022</div>
         <div className="experience__page__content">Amazon product finder</div>
         <div className="experience__page__sub__heading">Creatv Hub</div>
-        <div className="experience__page__info">2020 - till now</div>
-        <div className="experience__page__content">Frontend Developer</div>
+        <div className="experience__page__info">2021 - Till now</div>
+        <div className="experience__page__content">
+          Frontend Developer & Ui Ux Designer
+        </div>
       </div>
       <div className="experience__page">
         <div className="experience__page__heading">My Certificates</div>
-        <div className="experience__page__sub__heading">CCA</div>
-        <div className="experience__page__info">2016</div>
+        {/* <div className="experience__page__sub__heading">CCA</div>
+        <div className="experience__page__info">2022</div>
         <div className="experience__page__content">Office Applications</div>
         <div className="experience__page__sub__heading">AutoCad</div>
         <div className="experience__page__info">2207</div>
-        <div className="experience__page__content">Cad designing</div>
+        <div className="experience__page__content">Cad designing</div> */}
       </div>
       <div className="experience__page__special">
         <div className="experience__page__heading">The end</div>
