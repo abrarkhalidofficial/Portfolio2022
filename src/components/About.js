@@ -8,10 +8,12 @@ export default function About() {
   const [projectsCompleted, setProjectsCompleted] = useState(0);
   const [workingFor, setWorkingFor] = useState("");
   useEffect(() => {
-    axios.get("https://api.github.com/users/MehfoozurRehman").then((res) => {
-      setProjectsCompleted(res.data.public_repos);
-      setWorkingFor(res.data.company);
-    });
+    axios
+      .get("https://api.github.com/users/abrarkhalidofficial")
+      .then((res) => {
+        setProjectsCompleted(res.data.public_repos);
+        setWorkingFor(res.data.company);
+      });
   }, []);
 
   return (
@@ -62,7 +64,7 @@ export default function About() {
           </Fade>
           <img
             src={aboutPic}
-            alt="mehfooz ur rehman"
+            alt="Abrar Khalid"
             className="about__section__left__img"
           />
         </div>

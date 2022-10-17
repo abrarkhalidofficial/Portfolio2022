@@ -98,10 +98,10 @@ export default function Contact() {
               </div>
               <div className="contact__section__content__right__entry__content">
                 <div className="contact__section__content__right__entry__content__entry">
-                  mehfoozijaz786@gmail.com
+                  iabrarkhalidofficial@gmail.com
                 </div>
                 <div className="contact__section__content__right__entry__content__entry">
-                  mehfooz_ur_rehman@outlook.com
+                  iabrarkhalidofficial@gmail.com
                 </div>
               </div>
             </div>

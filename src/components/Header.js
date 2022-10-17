@@ -3,7 +3,7 @@ import { Facebook, GitHub, Instagram, Linkedin, Menu, X } from "react-feather";
 import OutsideClickHandler from "react-outside-click-handler";
 import NavLink from "./NavLink";
 
-export default function Header({}) {
+export default function Header() {
   const [nav, setNav] = useState(true);
   function navCheck() {
     if (window.innerWidth < 1000) {
@@ -31,7 +31,7 @@ export default function Header({}) {
           className="header__content__logo"
         >
           <div className="header__content__logo__slogan">M.</div>
-          <div className="header__content__logo__text">Mehfooz-ur-rehman</div>
+          <div className="header__content__logo__text">Abrar-khalid</div>
         </button>
         {nav ? (
           <OutsideClickHandler
@@ -55,7 +55,7 @@ export default function Header({}) {
         ) : null}
         <div className="header__content__actions">
           <a
-            href="https://github.com/MehfoozurRehman"
+            href="https://github.com/abrarkhalidofficial"
             className="header__content__actions__link"
             title="github"
           >
@@ -63,7 +63,7 @@ export default function Header({}) {
             <span>github</span>
           </a>
           <a
-            href="https://www.linkedin.com/in/mehfooz-rehman-37a1b0231/"
+            href="https://www.linkedin.com/in/iabrarkhalidofficial/"
             className="header__content__actions__link"
             title="linkedin"
           >
@@ -71,7 +71,7 @@ export default function Header({}) {
             <span>linkedin</span>
           </a>
           <a
-            href="https://www.instagram.com/mehfoozurrehman___/"
+            href="https://www.instagram.com/abrarkhalidofficial/"
             className="header__content__actions__link"
             title="instagram"
           >
@@ -79,7 +79,7 @@ export default function Header({}) {
             <span>instagram</span>
           </a>
           <a
-            href="https://www.facebook.com/MehfoozurRehmanIjaz/?_rdc=1&_rdr"
+            href="https://www.facebook.com/Abrarkhalidoffical/"
             className="header__content__actions__link"
             title="facebook"
           >

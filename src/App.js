@@ -20,7 +20,7 @@ export default function App() {
       <div className="section__wrapper">
         <Portfolio />
         <GitHubCalendar
-          username="mehfoozurrehman"
+          username="abrarkhalidofficial"
           color="#df3c3c"
           fontSize={14}
           year={new Date().getFullYear()}

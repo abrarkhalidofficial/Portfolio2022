@@ -34,7 +34,7 @@ export default function Portfolio() {
   useEffect(() => {
     axios
       .get(
-        "https://api.github.com/users/MehfoozurRehman/repos?per_page=10000&sort=updated"
+        "https://api.github.com/users/Abrarkhalidofficial/repos?per_page=10000&sort=updated"
       )
       .then((res) => {
         setProjectsData(res.data);

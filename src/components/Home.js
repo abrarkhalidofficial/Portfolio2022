@@ -53,7 +53,7 @@ export default function Home() {
         <div className="home__section__right">
           <img
             src={pic}
-            alt="mehfoozurrehman"
+            alt="Abrarkhalidofficial"
             className="home__section__right__img"
           />
         </div>

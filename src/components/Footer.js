@@ -7,7 +7,7 @@ export default function Footer() {
       <section id="footer__section" className="footer__section">
         <div className="footer__section__left">
           <a
-            href="https://github.com/MehfoozurRehman"
+            href="https://github.com/abrarkhalidofficial"
             className="header__content__actions__link"
             title="github"
           >
@@ -15,7 +15,7 @@ export default function Footer() {
             <span>github</span>
           </a>
           <a
-            href="https://www.linkedin.com/in/mehfooz-rehman-37a1b0231/"
+            href="https://www.linkedin.com/in/iabrarkhalidofficial/"
             className="header__content__actions__link"
             title="linkedin"
           >
@@ -23,7 +23,7 @@ export default function Footer() {
             <span>linkedin</span>
           </a>
           <a
-            href="https://www.instagram.com/mehfoozurrehman___/"
+            href="https://www.instagram.com/abrarkhalidofficial/"
             className="header__content__actions__link"
             title="instagram"
           >
@@ -31,7 +31,7 @@ export default function Footer() {
             <span>instagram</span>
           </a>
           <a
-            href="https://www.facebook.com/MehfoozurRehmanIjaz/?_rdc=1&_rdr"
+            href="https://www.facebook.com/Abrarkhalidoffical/"
             className="header__content__actions__link"
             title="facebook"
           >
@@ -40,7 +40,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="footer__section__right">
-          © 2022 - Mehfooz-ur-Rehman. All Rights Reserved
+          © 2022 - Abrar-khalid-official. All Rights Reserved
         </div>
       </section>
     </div>
