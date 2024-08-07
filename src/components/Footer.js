@@ -40,7 +40,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="footer__section__right">
-          © 2022 - Abrar-khalid-official. All Rights Reserved
+          © 2024 - Abrar-khalid-official. All Rights Reserved
         </div>
       </section>
     </div>
