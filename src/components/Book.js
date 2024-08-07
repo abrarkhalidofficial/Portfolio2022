@@ -27,21 +27,29 @@ export default function Book({}) {
       </div>
       <div className="experience__page">
         <div className="experience__page__heading">My Experiences</div>
-        <div className="experience__page__sub__heading">Buy Tech Zone</div>
-        <div className="experience__page__info">2021 - 2022</div>
-        <div className="experience__page__content">Amazon product finder</div>
-        <div className="experience__page__sub__heading">Creatv Hub</div>
-        <div className="experience__page__info">2021 - Till now</div>
-        <div className="experience__page__content">
-          Frontend Developer & Ui Ux Designer
+        <div className="experience__page__sub__heading">
+          CrazyBeings Studio (onsite)
         </div>
+        <div className="experience__page__info">2022 - 2023</div>
+        <div className="experience__page__content">Frontend Developer</div>
+        <div className="experience__page__sub__heading">
+          Devscot Solutions (onsite)
+        </div>
+        <div className="experience__page__info">2022 - Till now</div>
+        <div className="experience__page__content">Frontend Developer</div>
+        <div className="experience__page__sub__heading">
+          Refly Agency (Hybrid)
+        </div>
+        <div className="experience__page__info">2023 - Till now</div>
+        <div className="experience__page__content">Frontend Developer</div>
       </div>
       <div className="experience__page">
-        <div className="experience__page__heading">My Certificates</div>
-        {/* <div className="experience__page__sub__heading">CCA</div>
+        <div className="experience__page__heading">PROFILE SUMMARY </div>
+        <div className="experience__page__sub__heading">Devscot</div>
         <div className="experience__page__info">2022</div>
-        <div className="experience__page__content">Office Applications</div>
-        <div className="experience__page__sub__heading">AutoCad</div>
+        <div className="experience__page__content">I'm a Web Developer based in Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions. Working at this time for "Devscot Solutions"
+        </div>
+        {/* <div className="experience__page__sub__heading">AutoCad</div>
         <div className="experience__page__info">2207</div>
         <div className="experience__page__content">Cad designing</div> */}
       </div>
