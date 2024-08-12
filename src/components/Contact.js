@@ -98,7 +98,7 @@ export default function Contact() {
                   iabrarkhalidofficial@gmail.com
                 </div>
                 <div className="contact__section__content__right__entry__content__entry">
-                  Abrarprince471@gmail.com
+                  abrarprince471@gmail.com
                 </div>
               </div>
             </div>
