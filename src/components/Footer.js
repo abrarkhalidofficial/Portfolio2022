@@ -31,7 +31,7 @@ export default function Footer() {
             <span>instagram</span>
           </a>
           <a
-            href="https://www.facebook.com/Abrarkhalidoffical/"
+            href="https://www.facebook.com/abrarkhalidofficial/"
             className="header__content__actions__link"
             title="facebook"
           >
